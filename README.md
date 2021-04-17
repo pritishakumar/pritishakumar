@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! I'm Pritisha 
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3csw4KxSj5x7ckCLFuXoIhZptdkdccSHE-spk1K22jDYH0xV4NFetbxULrNQ9tJh82NU8rnti1O7NFyTFhDOuuDPuNdu9AVI3UQzTQDctAbRDDtdfPOdLSulScXMoLWgobE0yj1w7Wd2HHWLwQRlMzUXw=w358-h364-no?authuser=0" />
 
 <!--
 **pritishakumar/pritishakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
