@@ -1,9 +1,10 @@
-### Welcome! I'm Pritisha 
+<h1 align="center">👋 Welcome! I'm Pritisha 😊</h1>
 
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3csw4KxSj5x7ckCLFuXoIhZptdkdccSHE-spk1K22jDYH0xV4NFetbxULrNQ9tJh82NU8rnti1O7NFyTFhDOuuDPuNdu9AVI3UQzTQDctAbRDDtdfPOdLSulScXMoLWgobE0yj1w7Wd2HHWLwQRlMzUXw=w358-h364-no?authuser=0" />
+<img align="center" src="https://lh3.googleusercontent.com/pw/ACtC-3csw4KxSj5x7ckCLFuXoIhZptdkdccSHE-spk1K22jDYH0xV4NFetbxULrNQ9tJh82NU8rnti1O7NFyTFhDOuuDPuNdu9AVI3UQzTQDctAbRDDtdfPOdLSulScXMoLWgobE0yj1w7Wd2HHWLwQRlMzUXw=w358-h364-no?authuser=0" />
 
-<!--
-**pritishakumar/pritishakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I am a professional learner! My journey started as a Professional Designated Civil Engineer 👷‍♀️ who had some casual coding under her belt, but focused most of her time on adventures, travelling and building bridges. The pandemic era inspired me to pivot and explore instead, the industry that has always tantalized me, Software! Turns out software development fits me like a glove, but of course there is a lot more to learn on my journey. For now I'm enjoying leveling up, supporting my peers and contributing my skills to local businesses in need!</p>
+
+
 
 Here are some ideas to get you started:
 
