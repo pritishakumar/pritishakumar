@@ -9,8 +9,7 @@
 
 
 
-###🧰🛠️ Tech Stack:
-
+###🧰🛠️ Tech Stack:###
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="75px" height="75px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="75px" height="75px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="75px" height="75px"/>
@@ -29,22 +28,23 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="75px" height="75px" />, Axios, Jest, JSDOM
 
 
-### 😄 Pronouns:
-<p>She, Her, Her's<p>
+### 😄 Pronouns###
+- She, Her, Her's<p>
 
 
-### 📖🎯 Next Coding Goals 🌱💻
-<p>Projects in Typescript, Ruby, Java, and C++! </p>
+### 📖🎯 Next Coding Goals 🌱💻###
+- Projects in Typescript, Ruby, Java, and C++! </p>
 
 
-### 💬 Ask me about:
-<p>Travelling, cognitive biases and emotional regulation </p>
+### 💬 Ask me about:###
+- Travelling
+- psychology (cognitive biases and emotional regulation) </p>
   
   
-### 🤔 I’m looking for help with:
-<p>Finding great tech companies with a healthy work culture and sense of work-life balance</p>
+### 🤔 I’m looking for help with:###
+- Finding great tech companies with a healthy work culture and sense of work-life balance</p>
 
 
-### 🔭 I’m currently working on:
-<p>Website for Pilir</p>
-<p>Website for RJMA</p>
+### 🔭 I’m currently working on:###
+- Website for Pilir
+- Website for RJMA
