@@ -9,7 +9,7 @@
 
 
 
-###🧰🛠️ Tech Stack:
+### 🧰🛠️ Tech Stack:
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="75px" height="75px"/>
@@ -32,20 +32,20 @@
 
 
 ### 😄 Pronouns:
-- She, Her, Her's<p>
+- She, Her, Her's
 
 
 ### 📖🎯 Next Coding Goals 🌱💻:
-- Projects in Typescript, Ruby, Java, and C++! </p>
+- Projects in Typescript, Ruby, Java, and C++! 
 
 
 ### 💬 Ask me about:
 - Travelling
-- psychology (cognitive biases and emotional regulation) </p>
+- psychology (cognitive biases and emotional regulation)
   
   
 ### 🤔 I’m looking for help with:
-- Finding great tech companies with a healthy work culture and sense of work-life balance</p>
+- Finding great tech companies with a healthy work culture and sense of work-life balance
 
 
 ### 🔭 I’m currently working on:
