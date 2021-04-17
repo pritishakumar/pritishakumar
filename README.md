@@ -6,21 +6,36 @@
 
 <p> I am a professional learner! My journey started as a Professional Designated Civil Engineer 👷‍♀️  who had some casual coding under her belt, but focused most of her time on adventures 🪂🎨🖌️💃🎧 travelling 🚗✈️🗺️ and building bridges 🚧🌉. The pandemic era inspired me to pivot and explore instead, the industry that has always tantalized me, Software 💻! Turns out software development fits me like a glove, but of course there is a lot more to learn on my journey. For now I'm seeking my dream team, enjoying leveling up my coding and adulting skills, supporting my peers and contributing my skills to local businesses in need!</p>
 
-##🧰🛠️ Tech Stack
-HTML5/CSS/RWD, Bootstrap, JavaScript, jQuery, Git, AJAX/Axios, jQuery, Python, Flask/Jinja, SQL,
-PostgresQL (in progress), Node/Express, ReactJS, Object Oriented Programming, DOM Manipulation, Data Structures,
-Algorithms, Redux, Material-UI
-<img src="" alt="" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="75px" height="75px" />
+###🧰🛠️ Tech Stack:
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jasmine/jasmine-plain-wordmark.svg" alt="Jasmine" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original-wordmark.svg" alt="Github" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-plain-wordmark.svg" alt="Python" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original-wordmark.svg" alt="ReactJS" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/redux/redux-original.svg" alt="Redux" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/express/express-original-wordmark.svg" alt="Express" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/flask/flask-original-wordmark.svg" alt="Flask" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/materialui/materialui-original.svg" alt="Material UI" width="75px" height="75px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="75px" height="75px" />, Axios, Jest, JSDOM
 
-Here are some ideas to get you started:
+### 😄 Pronouns:
+<p>She, Her, Her's<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖🎯 Next Coding Goals 🌱💻
+<p>Projects in Typescript, Ruby, Java, and C++! </p>
+
+### 💬 Ask me about:
+<p>Travelling, cognitive biases and emotional regulation </p>
+   
+### 🤔 I’m looking for help with:
+<p>Finding great tech companies with a healthy work culture and sense of work-life balance</p>
+
+### 🔭 I’m currently working on:
+<p>Website for Pilir</p>
+<p>Website for RJMA</p>
