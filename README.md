@@ -11,7 +11,7 @@ HTML5/CSS/RWD, Bootstrap, JavaScript, jQuery, Git, AJAX/Axios, jQuery, Python, F
 PostgresQL (in progress), Node/Express, ReactJS, Object Oriented Programming, DOM Manipulation, Data Structures,
 Algorithms, Redux, Material-UI
 <img src="" alt="" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="75px" height="75px" />
 
 Here are some ideas to get you started:
 
