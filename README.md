@@ -36,7 +36,7 @@
 
 
 ### 📖🎯 Next Coding Goals 🌱💻:
-🔵 Projects in Typescript, Ruby, Java, and C++! 
+- Projects in Typescript, Ruby, Java, and C++! 
 
 
 ### 💬 Ask me about:
