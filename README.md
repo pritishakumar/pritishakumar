@@ -11,7 +11,7 @@
 
 ### 🧰🛠️ Tech Stack:
 
-<div>
+<div style="background-color:rgba(180, 230, 255, 0.70);">
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="75px" height="75px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="75px" height="75px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="75px" height="75px"/>
