@@ -37,7 +37,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritishakumar&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Pritisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritishakumar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Pritisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritishakumar&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 😄 Pronouns:
 - She, Her, Her's
