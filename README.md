@@ -7,7 +7,7 @@
 
 <p> I am a professional learner! My journey started as a Professional Designated Civil Engineer 👷‍♀️  who had some casual coding under her belt, but focused most of her time on adventures 🪂🎨🖌️💃🎧 travelling 🚗✈️🗺️ and building bridges 🚧🌉. The pandemic era inspired me to pivot and explore instead, the industry that has always tantalized me, Software 💻! Turns out software development fits me like a glove, but of course there is a lot more to learn on my journey. For now I'm seeking my dream team, enjoying leveling up my coding and adulting skills, supporting my peers and contributing my skills to local businesses in need!</p>
 
-
+<hr />
 
  ### 🧰🛠️ Tech Stack:
 
@@ -30,6 +30,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="75px" height="75px" />, Axios, Jest, JSDOM
 </div>
 
+<hr />
 
 ### 📄 My GitHub Stats:
 
@@ -38,22 +39,25 @@
 
 [![Pritisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritishakumar&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr />
+
 ### 😄 Pronouns:
 - She, Her, Her's
 
+<hr />
 
 ### 📖🎯 Next Coding Goals 🌱💻:
 - Projects in Typescript, Ruby, Java, and C++! 
-
+<hr />
 
 ### 💬 Ask me about:
 - Travelling
 - psychology (cognitive biases and emotional regulation)
-  
+<hr />
   
 ### 🤔 I’m looking for help with:
 - Finding great tech companies with a healthy work culture and sense of work-life balance
-
+<hr />
 
 ### 🔭📝 I’m currently working on:
 - Website for Pilir
