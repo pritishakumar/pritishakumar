@@ -51,7 +51,8 @@
 
 ### 💬 Ask me about:
 - Travelling
-- psychology (cognitive biases and emotional regulation)
+- Psychology (cognitive biases and emotional regulation)
+- Tech for Good
 <hr />
   
 ### 🤔 I’m looking for help with:
