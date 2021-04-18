@@ -11,8 +11,7 @@
 
  ### 🧰🛠️ Tech Stack:
 
-<div style="background-color:rgba(180, 230, 255, 0.70);">
-   <span style="background-color:green">
+<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="75px" height="75px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="75px" height="75px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="75px" height="75px"/>
@@ -29,7 +28,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="75px" height="75px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/materialui/materialui-original.svg" alt="Material UI" width="75px" height="75px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="75px" height="75px" />, Axios, Jest, JSDOM
-      </span>
 </div>
 
 
@@ -50,6 +48,6 @@
 - Finding great tech companies with a healthy work culture and sense of work-life balance
 
 
-### 🔭 I’m currently working on:
+### 🔭📝 I’m currently working on:
 - Website for Pilir
 - Website for RJMA
