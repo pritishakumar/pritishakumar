@@ -29,7 +29,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGvkzmPgEKpt4pSohVd38ScVM7HJcKxZiTQ&usqp=CAU" alt="Express" width="75px" height="75px"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-plain-wordmark.svg" alt="Python" width="75px" height="75px"/>
-<img src="https://lh3.googleusercontent.com/dj1Qru8vZoA7-rFwFQrcsy0bQOTBP15n851hvK3rR9vTn5crNyWAp9QqET8y62k0Ki_N0QBatWs-91vFRlzbEmrGTKQOn1uvr5ktb5zh0S0ptI_p_iOLVs7zzUnalFmSiRBATp-oBRDdFMz_nKmi2H64QWasY2G9R6CvsqObRGqH0g3pp6RwdfKziw4JTt5hU0X_ro-gJJvoO7Vd6b4mOHDLCLISLhP5OGvJ8AeCh-1FFY-mRXpETN3mgcno2_BcCPDKE9yha7k5QoWDpOwhg90k2dKeIFqXLQCjqqnNj0wB7H4UvmpHe6YlGGRwQvsIoFeGKoyRUWmVyFvivlESF_dgLieVyzTyGHu6P_fCyQdb0QAobkoZlDy3MjPBzJ6iS7GHip3GqLFU-WzMDFMeiLTlUEM-mdh23u9PKwR0x6uwJYmwQwJkC8di-DOBjzTA6uBfLRUenKTdS6woM1LxHapoY6ljgs5cfZBMwJtYzVLyB4_CCREqcbDO5CAQjTBVTkAGQP-C9CimFx3NAiDHo1ub_1jwcfhWUHBVTzSkrQVKZ8nQnUYul3zY65M94OiiIa0CH1A0BfOn0YVSwTDCLU5AD6kiM_2RAtCpgkmIKjo4MmO8d2yNWTejekQ7ZIRs-Hj-KadTVe6m0158iKwPAM0XidYCXdZHLKvxO7t3R7HDedEL90B5VKL37XErhpHqyH9hv-2iEekPWfZu8FvMdbO6lQ=s128-no?authuser=0" alt="Flask" width="75px" height="75px"/>
+<img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="Flask" width="75px" height="75px"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="75px" height="75px"/>
 , Axios, Jest, JSDOM
