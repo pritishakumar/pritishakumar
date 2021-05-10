@@ -29,7 +29,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGvkzmPgEKpt4pSohVd38ScVM7HJcKxZiTQ&usqp=CAU" alt="Express" width="75px" height="75px"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-plain-wordmark.svg" alt="Python" width="75px" height="75px"/>
-<img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" alt="Flask" width="75px" height="75px"/>
+<img src="https://miro.medium.com/max/700/1*Q5EUk28Xc3iCDoMSkrd1_w.png" alt="Flask" width="75px" height="75px"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="75px" height="75px"/>
 , Axios, Jest, JSDOM
