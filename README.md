@@ -4,7 +4,7 @@
    <img src="https://lh3.googleusercontent.com/pw/ACtC-3csw4KxSj5x7ckCLFuXoIhZptdkdccSHE-spk1K22jDYH0xV4NFetbxULrNQ9tJh82NU8rnti1O7NFyTFhDOuuDPuNdu9AVI3UQzTQDctAbRDDtdfPOdLSulScXMoLWgobE0yj1w7Wd2HHWLwQRlMzUXw=w358-h364-no?authuser=0" alt="" width="200px"/>
 </div>
 
-<p> I am a professional learner! My journey started as a Professional Designated Civil Engineer 👷‍♀️  who had some casual coding under her belt, but focused most of her time on adventures 🪂🎨🖌️💃🎧 travelling 🚗✈️🗺️ and building bridges 🚧🌉. The pandemic era inspired me to pivot and explore instead, the industry that has always tantalized me, Software 💻! Turns out software development fits me like a glove, but of course there is a lot more to learn on my journey. For now I'm seeking my dream team, enjoying leveling up my coding and adulting skills, supporting my peers and contributing my skills to local businesses in need!</p>
+<p> I am a professional learner! My journey started as a Professional Designated Civil Engineer 👷‍♀️  who had some casual coding under her belt, but focused most of her time on adventures 🪂🎨🖌️💃🎧 travelling 🚗✈️🗺️ and building bridges 🚧🌉. The pandemic era inspired me to pivot and explore instead, the industry that has always tantalized me, Software 💻! Turns out software development fits me like a glove, but of course there is a lot more to learn on my journey. For now I'm enjoying leveling up my coding and adulting skills, supporting my peers and contributing my skills to local businesses in need!</p>
 
 <hr />
 
@@ -62,9 +62,9 @@
 <hr />
   
 ### 🤔 I’m looking for help with:
-- Finding great tech companies with a healthy work culture and sense of work-life balance
+- Finding good work management tools when juggling multiple work assignments (my latest favourite, Sourcetree for tracking my Git branches)
 <hr />
 
 ### 🔭📝 I’m currently working on:
-- Website for Pilir
+- Projects for Dialpad
 - Website for RJMA
